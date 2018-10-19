@@ -40,11 +40,6 @@ And open the following URL in your web browser:
 
  - http://127.0.0.1:8000/
 
-And you can see the hello world example like this :
+And you can see the "Hello World!" message on the browser.
 
-.. figure:: https://github.com/django-ve/helloworld/raw/master/docs/django_helloword.png
-   :width: 332px
-   :align: center
-   :alt: A Django 'Hello World' example
-
-A Django 'Hello World' example
+Thank You!
